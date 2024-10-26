@@ -8,7 +8,6 @@ You are a Data Analyst at Netflix. By making use of the following data make a Po
 Features:
 
 → Show_id
-
 → Туре
 
 → Title
