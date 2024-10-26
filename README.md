@@ -6,6 +6,7 @@ This dataset provides a comprehensive snapshot of the movies and shows available
 You are a Data Analyst at Netflix. By making use of the following data make a Power BI dashboard which will help Netflix to gain important data-driven insights for decision-making on further strategies.
 
 Features:
+
 → Show_id
 
 → Туре
